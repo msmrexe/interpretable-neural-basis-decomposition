@@ -107,7 +107,7 @@ interpretable-neural-basis-decomposition/
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/msmrexe/interpretable-neural-basis-decomposition.git](https://github.com/msmrexe/interpretable-neural-basis-decomposition.git)
+    git clone https://github.com/msmrexe/interpretable-neural-basis-decomposition.git
     cd interpretable-neural-basis-decomposition
     pip install -r requirements.txt
     ```
